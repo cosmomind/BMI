@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMIApp</string>
+    <string name="medicare">MediCare</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+</resources>
